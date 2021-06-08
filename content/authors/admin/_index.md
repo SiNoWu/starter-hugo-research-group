@@ -14,8 +14,7 @@ organizations:
   url: "http://faculty.hust.edu.cn/chenweihua2/en/index.htm"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include systems biology, metagenomics, bioinformatics, microbiology, translational medicine
 interests:
 - Systems biology
 - Metagenomics
