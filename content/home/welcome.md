@@ -10,6 +10,8 @@ title: About The Lab
 subtitle: ""
 design:
   columns: "1"
+  background:
+    image: labphoto.jpg
 hero_media: welcome.jpg
 ---
 
