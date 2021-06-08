@@ -1,37 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Weihua-Chen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor, PhD supervisor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Huazhong University of Science and Technology
+  url: "http://faculty.hust.edu.cn/chenweihua2/en/index.htm"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Systems biology
+- metagenomics
+- bioinformatics
+- microbiology
+- translational medicine
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Genetics
+    institution: Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing China
+    year: 2006
+  - course: Master of Science in Genetics
+    institution: Northeast Normal University, Changchun China
+    year: 2003
+  - course: Bachelor of Biology
+    institution: Henan Normal University, Xinxiang China
+    year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "weihuachen@hust.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
