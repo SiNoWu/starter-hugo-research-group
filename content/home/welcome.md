@@ -6,7 +6,7 @@ widget: hero
 widget_id: RECENT-POSTS
 headless: true
 weight: 10
-title: Welcome Chenlab Research Group
+title: About The Lab
 subtitle: ""
 design:
   columns: "1"
