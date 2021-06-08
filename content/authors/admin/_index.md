@@ -68,7 +68,7 @@ user_groups:
 
 Wei-Hua Chen
 
-Professor, PhD supervisor; 
+Professor, PhD supervisor
 
 Department of Bioinformatics and Systems Biology, Huazhong University of Science and Technology (HUST), China
 
