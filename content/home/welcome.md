@@ -12,7 +12,7 @@ design:
   columns: "1"
   background:
     image: ""
-hero_media: welcome.jpg
+hero_media: labphoto.jpg
 ---
 
 CHEN lab at Huazhong University of Science and Technology
