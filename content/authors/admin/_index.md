@@ -18,10 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Systems biology
-- metagenomics
-- bioinformatics
-- microbiology
-- translational medicine
+- Metagenomics
+- Bioinformatics
+- Microbiology
+- Translational medicine
 
 education:
   courses:
