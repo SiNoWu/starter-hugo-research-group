@@ -11,7 +11,7 @@ subtitle: ""
 design:
   columns: "1"
   background:
-    image: labphoto.jpg
+    image: ""
 hero_media: welcome.jpg
 ---
 
