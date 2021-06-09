@@ -1,10 +1,9 @@
 ---
-title: Analysis of 10,000 ESTs from lymphocytes of the cynomolgus monkey to
-  improve our understanding of its immune system
+title: Analysis of 10,000 ESTs from lymphocytes of the cynomolgus monkey to  improve our understanding of its immune system
 publication_types:
   - "2"
 authors:
-  - admin
+  - Weihua-Chen
   - X.-X.Wang
   - W.Lin
   - X.-W. He
