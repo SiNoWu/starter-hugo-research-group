@@ -34,7 +34,7 @@ featured: false
 tags:
   - BMC Genomics
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://bmcgenomics.biomedcentral.com/track/pdf/10.1186/1471-2164-7-82.pdf
 image:
   caption: ""
   focal_point: ""
