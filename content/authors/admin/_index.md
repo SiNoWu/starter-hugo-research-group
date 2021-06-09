@@ -26,13 +26,13 @@ education:
   courses:
   - course: PhD in Genetics
     institution: Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing China
-    year: 2006
+    year: 2003 to 2006
   - course: Master of Science in Genetics
     institution: Northeast Normal University, Changchun China
-    year: 2003
+    year: 2000 to 2003
   - course: Bachelor of Biology
     institution: Henan Normal University, Xinxiang China
-    year: 2000
+    year: 1996 to 2000
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
