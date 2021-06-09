@@ -31,7 +31,7 @@ education:
     year: 2019 to present 
   - course: Bachelor of Bioinformatics
     institution: Huazhong Univeisity of Science and Technology, China
-    year: 2019
+    year: 2015 to 2019
 
 
 # Social/Academic Networking
@@ -56,3 +56,5 @@ user_groups:
 PhD student
 
 Department of Bioinformatics and Systems Biology,Huazhong University of Science and Technology (HUST), China
+
+Email: chuqingsun@hust.edu.cn
