@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd students of Chen Lab
+role: Phd student of Chen Lab
 
 # Organizations/Affiliations
 organizations:
