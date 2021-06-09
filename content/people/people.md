@@ -19,7 +19,8 @@ content:
   - Professor
   - Postdocs
   - Phd Students
-  - Master students
+  - Master Students
+  - Alumni Members
 
 design:
   show_interests: false
