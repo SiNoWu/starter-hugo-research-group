@@ -33,10 +33,10 @@ education:
     year: 2018 to present 
   - course: Masters of Research in Bioinformatics
     institution: UNIVERSITY OF GLASGOW, UK
-    year: 2013
+    year: 2010 to 2013
   - course: Bachelor of Science in Zoology
     institution: MADRAS CHRISTIAN COLLEGE
-    year: 2010
+    year: 2007 to 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
