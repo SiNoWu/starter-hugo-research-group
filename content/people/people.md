@@ -18,8 +18,8 @@ content:
   user_groups:
   - Professor
   - Postdocs
-  - Current members
-  - Alumni members
+  - Phd Students
+  - Master students
 
 design:
   show_interests: false
