@@ -30,10 +30,10 @@ education:
   courses:
   - course: Ph.D. in China Pharmaceutical university
     institution: Ph.D. in China Pharmaceutical university
-    year: 2017
+    year: 2012 to 2017
   - course: Bachelor of China Pharmaceutical university
     institution: China Pharmaceutical university
-    year: 2012
+    year: 2008 to 2012
 
 
 # Social/Academic Networking
