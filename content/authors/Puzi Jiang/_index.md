@@ -31,7 +31,7 @@ education:
     year: 2017 to present 
   - course: Bachelor of Bioinformatics
     institution: Huazhong Univeisity of Science and Technology, China
-    year: 2017
+    year: 2013 to 2017
 
 
 # Social/Academic Networking
